@@ -1,0 +1,15 @@
+com.example.my.app-jetified-window-java-1.0.0-beta04-0 /home/hi-born4/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.my.app-core-1.6.0-1 /home/hi-born4/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.my.app-jetified-annotation-experimental-1.1.0-2 /home/hi-born4/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.my.app-jetified-window-1.0.0-beta04-3 /home/hi-born4/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.my.app-debug-4 /home/hi-born4/App Development/Shopsurf/android/app/src/debug/res
+com.example.my.app-main-5 /home/hi-born4/App Development/Shopsurf/android/app/src/main/res
+com.example.my.app-pngs-6 /home/hi-born4/App Development/Shopsurf/build/app/generated/res/pngs/debug
+com.example.my.app-resValues-7 /home/hi-born4/App Development/Shopsurf/build/app/generated/res/resValues/debug
+com.example.my.app-rs-8 /home/hi-born4/App Development/Shopsurf/build/app/generated/res/rs/debug
+com.example.my.app-mergeDebugResources-9 /home/hi-born4/App Development/Shopsurf/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.my.app-mergeDebugResources-10 /home/hi-born4/App Development/Shopsurf/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.my.app-merged_res-11 /home/hi-born4/App Development/Shopsurf/build/app/intermediates/merged_res/debug
+com.example.my.app-packaged_res-12 /home/hi-born4/App Development/Shopsurf/build/path_provider_android/intermediates/packaged_res/debug
+com.example.my.app-packaged_res-13 /home/hi-born4/App Development/Shopsurf/build/shared_preferences_android/intermediates/packaged_res/debug
+com.example.my.app-packaged_res-14 /home/hi-born4/App Development/Shopsurf/build/sqflite/intermediates/packaged_res/debug

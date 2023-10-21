@@ -1,0 +1,28 @@
+# ninja log v5
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/libflutter_linux_gtk.so	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_engine.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_value.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/fl_view.h	19ea452eb2b46703
+0	19874	0	/home/hi-born4/App Development/Shopsurf/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	19ea452eb2b46703
+0	19874	0	flutter/_phony_	19ea452eb2b46703
+19875	20753	1688791088885545829	CMakeFiles/my.dir/flutter/generated_plugin_registrant.cc.o	df71cb841e572e3f
+19874	20765	1688791088897545722	CMakeFiles/my.dir/main.cc.o	261d5622b31de238
+19874	20843	1688791088977545017	CMakeFiles/my.dir/my_application.cc.o	9fcafebe72fdefe9
+20843	21199	1688791089337541845	intermediates_do_not_run/my	e3e5d23bed7f87a
+21199	21329	0	CMakeFiles/install.util	c2cfa72eaf81fc60

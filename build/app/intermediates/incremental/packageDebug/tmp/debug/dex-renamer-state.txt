@@ -1,0 +1,4 @@
+#Fri Jul 07 23:46:30 CDT 2023
+base.0=/home/hi-born4/App Development/Shopsurf/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
