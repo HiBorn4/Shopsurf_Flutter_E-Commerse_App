@@ -1,6 +1,11 @@
 # Flutter Shop App
 
-![Flutter Shop App](screenshots/app_screenshot.png)
+<p>
+  <img src="scrrenshots/auth.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>Users can easily signup and login with their gmail and password.</em>
+</p>
+
 
 Welcome to the Flutter Shop App repository! This is a powerful and customizable e-commerce application built with Flutter, designed to provide a seamless shopping experience for your users. Whether you're starting a new online store or looking to enhance your existing Flutter project, this app is a perfect fit.
 
@@ -22,14 +27,61 @@ Welcome to the Flutter Shop App repository! This is a powerful and customizable 
 
 Here are some screenshots of the Flutter Shop App in action:
 
-![Home Screen](screenshots/home_screen.png)
-_The home screen displays featured products and categories for easy navigation._
 
-![Product Details Screen](screenshots/product_details_screen.png)
-_Detailed product information and reviews help users make informed decisions._
+<p>
+  <img src="scrrenshots/prod_over.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>The home screen displays featured products and categories for easy navigation.</em>
+</p>
 
-![Cart Screen](screenshots/cart_screen.png)
-_Users can easily manage their shopping cart, update quantities, and proceed to checkout._
+<p>
+  <img src="scrrenshots/drawer.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>The drawer displays featured products and categories for easy navigation.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/order_history.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>Order History screen so that user can see their past orders.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/order.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>The Order History Screen to Order the items which you have bought.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/item2.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>Being a fan of Pokemon I have Charizard as my Porduct.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/item1.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>Pokeball is my another Product.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/fav.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>You can mark your products favourite and use the filter to see only fav. prods.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/add_prod.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>You can add your OWN PRODUCT so that others can buy it.</em>
+</p>
+
+<p>
+  <img src="scrrenshots/add_orders.jpg" alt="Home Screen" width="300">
+  <br>
+  <em>Just tap on the number of times for which you want to buy the items.</em>
+</p>
+
 
 ## Getting Started
 
