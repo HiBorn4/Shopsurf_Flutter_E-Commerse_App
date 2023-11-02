@@ -1,7 +1,7 @@
 # Flutter Shop App
 
 <p>
-  <img src="scrrenshots/auth.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/auth.jpg" alt="Home Screen" width="300">
   <br>
   <em>Users can easily signup and login with their gmail and password.</em>
 </p>
@@ -29,55 +29,55 @@ Here are some screenshots of the Flutter Shop App in action:
 
 
 <p>
-  <img src="scrrenshots/prod_over.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/prod_over.jpg" alt="Home Screen" width="300">
   <br>
   <em>The home screen displays featured products and categories for easy navigation.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/drawer.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/drawer.jpg" alt="Home Screen" width="300">
   <br>
   <em>The drawer displays featured products and categories for easy navigation.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/order_history.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/order_history.jpg" alt="Home Screen" width="300">
   <br>
   <em>Order History screen so that user can see their past orders.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/order.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/order.jpg" alt="Home Screen" width="300">
   <br>
   <em>The Order History Screen to Order the items which you have bought.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/item2.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/item2.jpg" alt="Home Screen" width="300">
   <br>
   <em>Being a fan of Pokemon I have Charizard as my Porduct.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/item1.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/item1.jpg" alt="Home Screen" width="300">
   <br>
   <em>Pokeball is my another Product.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/fav.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/fav.jpg" alt="Home Screen" width="300">
   <br>
   <em>You can mark your products favourite and use the filter to see only fav. prods.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/add_prod.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/add_prod.jpg" alt="Home Screen" width="300">
   <br>
   <em>You can add your OWN PRODUCT so that others can buy it.</em>
 </p>
 
 <p>
-  <img src="scrrenshots/add_orders.jpg" alt="Home Screen" width="300">
+  <img src="assets/screenshots/add_orders.jpg" alt="Home Screen" width="300">
   <br>
   <em>Just tap on the number of times for which you want to buy the items.</em>
 </p>
